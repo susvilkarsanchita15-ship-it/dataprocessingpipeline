@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Rahul",
+        "age":21,
+        "salary":25000,
+        "city":"Mumbai",
+        "salary_category":"Low"
+    },
+    {
+        "id":2,
+        "name":"Priya",
+        "age":23,
+        "salary":30000,
+        "city":"Pune",
+        "salary_category":"Medium"
+    },
+    {
+        "id":3,
+        "name":"Amit",
+        "age":25,
+        "salary":35000,
+        "city":"Mumbai",
+        "salary_category":"Medium"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "input_file": "data/input/employees.json",
+    "api_url": "http://127.0.0.1:8000/employees",
+    "output_file": "data/output/cleaned_employees.json",
+    "log_file": "logs/pipeline.log",
+    "missing_name_value": "Unknown",
+    "input_format": "api",
+    "output_format": "json"
+}

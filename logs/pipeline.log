@@ -1,0 +1,276 @@
+2026-09-20 19:19:32,058 - INFO - Pipeline started
+2026-09-20 19:19:32,059 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-20 19:19:32,064 - INFO - Starting data cleaning
+2026-09-20 19:19:32,074 - INFO - Data cleaning completed
+2026-09-20 19:19:32,075 - INFO - Starting data transformation
+2026-09-20 19:19:32,077 - INFO - Data transformation completed
+2026-09-20 19:19:32,088 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-20 19:19:32,088 - INFO - Pipeline completed successfully
+2026-09-20 19:36:32,742 - INFO - Pipeline started
+2026-09-20 19:36:32,744 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-20 19:36:32,751 - INFO - Starting data cleaning
+2026-09-20 19:36:32,760 - INFO - Data cleaning completed
+2026-09-20 19:36:32,761 - INFO - Starting data transformation
+2026-09-20 19:36:32,762 - INFO - Data transformation completed
+2026-09-20 19:36:32,767 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-20 19:36:32,767 - INFO - Pipeline completed successfully
+2026-09-20 20:11:36,467 - INFO - Pipeline started
+2026-09-20 20:11:36,467 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-20 20:11:36,472 - INFO - CSV file loaded successfully with 8 rows
+2026-09-20 20:11:36,473 - INFO - Starting data cleaning
+2026-09-20 20:11:36,481 - INFO - Data cleaning completed
+2026-09-20 20:11:36,481 - INFO - Starting data transformation
+2026-09-20 20:11:36,483 - INFO - Data transformation completed
+2026-09-20 20:11:36,488 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-20 20:11:36,488 - INFO - Pipeline completed successfully
+2026-09-20 20:21:50,799 - INFO - Pipeline started
+2026-09-20 20:21:50,799 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-20 20:21:50,803 - INFO - CSV file loaded successfully with 8 rows
+2026-09-20 20:21:50,803 - INFO - Starting data cleaning
+2026-09-20 20:21:50,814 - INFO - Data cleaning completed
+2026-09-20 20:21:50,814 - INFO - Starting data transformation
+2026-09-20 20:21:50,815 - INFO - Data transformation completed
+2026-09-20 20:21:50,825 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-20 20:21:50,825 - INFO - Pipeline completed successfully
+2026-09-20 20:25:33,131 - INFO - Pipeline started
+2026-09-20 20:25:33,132 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-20 20:25:33,138 - INFO - CSV file loaded successfully with 8 rows
+2026-09-20 20:25:33,138 - INFO - Starting data cleaning
+2026-09-20 20:25:33,149 - INFO - Data cleaning completed
+2026-09-20 20:25:33,150 - INFO - Starting data transformation
+2026-09-20 20:25:33,153 - INFO - Data transformation completed
+2026-09-20 20:25:33,159 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-20 20:25:33,159 - INFO - Pipeline completed successfully
+2026-09-20 20:28:06,484 - INFO - Pipeline started
+2026-09-20 20:28:06,484 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-20 20:28:06,488 - INFO - CSV file loaded successfully with 8 rows
+2026-09-20 20:28:06,488 - INFO - Input data contains 8 rows
+2026-09-20 20:28:06,488 - INFO - Starting data cleaning
+2026-09-20 20:28:06,495 - INFO - Data cleaning completed
+2026-09-20 20:28:06,495 - INFO - Starting data transformation
+2026-09-20 20:28:06,496 - INFO - Data transformation completed
+2026-09-20 20:28:06,500 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-20 20:28:06,500 - INFO - Output data contains 8 rows
+2026-09-20 20:28:06,500 - INFO - Input columns: 5, Output columns: 6
+2026-09-20 20:28:06,500 - INFO - Pipeline completed successfully
+2026-09-20 20:36:14,297 - INFO - Pipeline started
+2026-09-20 20:36:14,297 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-20 20:36:14,301 - INFO - CSV file loaded successfully with 8 rows
+2026-09-20 20:36:14,301 - INFO - Input data contains 8 rows
+2026-09-20 20:36:14,301 - INFO - Starting data cleaning
+2026-09-20 20:36:14,313 - INFO - Data cleaning completed
+2026-09-20 20:36:14,313 - INFO - Starting data transformation
+2026-09-20 20:36:14,315 - INFO - Data transformation completed
+2026-09-20 20:36:14,320 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-20 20:36:14,320 - INFO - Output data contains 8 rows
+2026-09-20 20:36:14,320 - INFO - Input columns: 5, Output columns: 6
+2026-09-20 20:36:14,320 - INFO - Pipeline completed successfully
+2026-09-20 20:45:47,807 - INFO - Pipeline started
+2026-09-20 20:45:47,807 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-20 20:45:47,811 - INFO - CSV file loaded successfully with 8 rows
+2026-09-20 20:45:47,812 - INFO - Input data contains 8 rows
+2026-09-20 20:45:47,812 - INFO - Starting data cleaning
+2026-09-20 20:45:47,819 - INFO - Data cleaning completed
+2026-09-20 20:45:47,820 - INFO - Starting data transformation
+2026-09-20 20:45:47,821 - INFO - Data transformation completed
+2026-09-20 20:45:47,825 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-20 20:45:47,825 - INFO - Output data contains 8 rows
+2026-09-20 20:45:47,826 - INFO - Input columns: 5, Output columns: 6
+2026-09-20 20:45:47,826 - INFO - Pipeline completed successfully
+2026-09-20 20:51:31,293 - INFO - Pipeline started
+2026-09-20 20:51:31,295 - INFO - Reading JSON file: data/input/employees.csv
+2026-09-20 20:51:31,298 - ERROR - Pipeline failed: Expected object or value
+2026-09-20 20:59:25,341 - INFO - Pipeline started
+2026-09-20 20:59:25,341 - INFO - Reading JSON file: data/input/employees.csv
+2026-09-20 20:59:25,343 - ERROR - Pipeline failed: Expected object or value
+2026-09-21 00:37:12,746 - INFO - Pipeline started
+2026-09-21 00:37:12,747 - INFO - Reading JSON file: data/input/employees.csv
+2026-09-21 00:37:12,748 - ERROR - Pipeline failed: Expected object or value
+2026-09-21 00:43:57,056 - INFO - Pipeline started
+2026-09-21 00:43:57,057 - INFO - Reading JSON file: data/input/employees.csv
+2026-09-21 00:43:57,057 - ERROR - Pipeline failed: Expecting value: line 1 column 1 (char 0)
+2026-09-21 00:48:19,131 - INFO - Pipeline started
+2026-09-21 00:48:19,132 - INFO - Reading JSON file: data/input/employees.csv
+2026-09-21 00:48:19,133 - ERROR - Pipeline failed: Expecting value: line 1 column 1 (char 0)
+2026-09-21 00:52:08,963 - INFO - Pipeline started
+2026-09-21 00:52:08,964 - INFO - Reading JSON file: data/input/employees.csv
+2026-09-21 00:52:08,965 - ERROR - Pipeline failed: Expecting value: line 1 column 1 (char 0)
+2026-09-21 00:53:43,509 - INFO - Pipeline started
+2026-09-21 00:53:43,510 - INFO - Reading JSON file: data/input/employees.json
+2026-09-21 00:53:43,515 - INFO - JSON file loaded successfully with 3 rows
+2026-09-21 00:53:43,516 - INFO - Input data contains 3 rows
+2026-09-21 00:53:43,516 - INFO - Starting data cleaning
+2026-09-21 00:53:43,524 - INFO - Data cleaning completed
+2026-09-21 00:53:43,525 - INFO - Starting data transformation
+2026-09-21 00:53:43,527 - INFO - Data transformation completed
+2026-09-21 00:53:43,537 - INFO - Processed data saved to data/output/cleaned_employees.json
+2026-09-21 00:53:43,538 - INFO - Output data contains 3 rows
+2026-09-21 00:53:43,538 - INFO - Input columns: 5, Output columns: 6
+2026-09-21 00:53:43,539 - INFO - Pipeline completed successfully
+2026-09-21 00:57:26,252 - INFO - Pipeline started
+2026-09-21 00:57:26,253 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-21 00:57:26,256 - INFO - CSV file loaded successfully with 8 rows
+2026-09-21 00:57:26,256 - INFO - Input data contains 8 rows
+2026-09-21 00:57:26,256 - INFO - Starting data cleaning
+2026-09-21 00:57:26,262 - INFO - Data cleaning completed
+2026-09-21 00:57:26,262 - INFO - Starting data transformation
+2026-09-21 00:57:26,263 - INFO - Data transformation completed
+2026-09-21 00:57:26,268 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-21 00:57:26,269 - INFO - Output data contains 8 rows
+2026-09-21 00:57:26,269 - INFO - Input columns: 5, Output columns: 6
+2026-09-21 00:57:26,270 - INFO - Pipeline completed successfully
+2026-09-21 01:06:34,149 - INFO - Pipeline started
+2026-09-21 01:06:34,150 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-21 01:06:34,155 - INFO - CSV file loaded successfully with 8 rows
+2026-09-21 01:06:34,155 - INFO - Input data contains 8 rows
+2026-09-21 01:06:34,155 - INFO - Starting data cleaning
+2026-09-21 01:06:34,163 - INFO - Data cleaning completed
+2026-09-21 01:06:34,163 - INFO - Starting data transformation
+2026-09-21 01:06:34,165 - INFO - Data transformation completed
+2026-09-21 01:06:34,169 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-21 01:06:34,169 - INFO - Output data contains 8 rows
+2026-09-21 01:06:34,169 - INFO - Input columns: 5, Output columns: 6
+2026-09-21 01:06:34,169 - INFO - Pipeline completed successfully
+2026-09-21 01:10:58,133 - INFO - Pipeline started
+2026-09-21 01:10:58,135 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-21 01:10:58,144 - INFO - CSV file loaded successfully with 8 rows
+2026-09-21 01:10:58,145 - INFO - Input data contains 8 rows
+2026-09-21 01:10:58,145 - INFO - Starting data cleaning
+2026-09-21 01:10:58,157 - INFO - Data cleaning completed
+2026-09-21 01:10:58,159 - INFO - Starting data transformation
+2026-09-21 01:10:58,162 - INFO - Data transformation completed
+2026-09-21 01:10:58,168 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-21 01:10:58,169 - INFO - Output data contains 8 rows
+2026-09-21 01:10:58,169 - INFO - Input columns: 5, Output columns: 6
+2026-09-21 01:10:58,169 - INFO - Pipeline completed successfully
+2026-09-21 01:19:33,341 - INFO - Pipeline started
+2026-09-21 01:19:33,341 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-21 01:19:33,347 - INFO - CSV file loaded successfully with 8 rows
+2026-09-21 01:19:33,347 - INFO - Input data contains 8 rows
+2026-09-21 01:19:33,348 - INFO - Starting data cleaning
+2026-09-21 01:19:33,361 - INFO - Data cleaning completed
+2026-09-21 01:19:33,361 - INFO - Starting data transformation
+2026-09-21 01:19:33,364 - INFO - Data transformation completed
+2026-09-21 01:19:33,369 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-21 01:19:33,370 - INFO - Output data contains 8 rows
+2026-09-21 01:19:33,370 - INFO - Input columns: 5, Output columns: 6
+2026-09-21 01:19:33,370 - INFO - Pipeline completed successfully
+2026-09-21 01:24:32,119 - INFO - Pipeline started
+2026-09-21 01:24:32,120 - INFO - Reading CSV file: data/input/employees.csv
+2026-09-21 01:24:32,129 - INFO - CSV file loaded successfully with 8 rows
+2026-09-21 01:24:32,130 - INFO - Input data contains 8 rows
+2026-09-21 01:24:32,131 - INFO - Starting data cleaning
+2026-09-21 01:24:32,146 - INFO - Data cleaning completed
+2026-09-21 01:24:32,147 - INFO - Starting data transformation
+2026-09-21 01:24:32,150 - INFO - Data transformation completed
+2026-09-21 01:24:32,159 - INFO - Processed data saved to data/output/cleaned_employees.csv
+2026-09-21 01:24:32,159 - INFO - Output data contains 8 rows
+2026-09-21 01:24:32,159 - INFO - Input columns: 5, Output columns: 6
+2026-09-21 01:24:32,160 - INFO - Pipeline completed successfully
+2026-10-31 15:44:26,025 - INFO - Pipeline started
+2026-10-31 15:44:26,026 - INFO - Reading JSON file: data/input/employees.json
+2026-10-31 15:44:26,030 - INFO - JSON file loaded successfully with 3 rows
+2026-10-31 15:44:26,031 - INFO - Input data contains 3 rows
+2026-10-31 15:44:26,031 - INFO - Starting data cleaning
+2026-10-31 15:44:26,044 - INFO - Data cleaning completed
+2026-10-31 15:44:26,044 - INFO - Starting data transformation
+2026-10-31 15:44:26,046 - INFO - Data transformation completed
+2026-10-31 15:44:26,049 - INFO - Processed data saved to data/output/cleaned_employees.json
+2026-10-31 15:44:26,049 - INFO - Output data contains 3 rows
+2026-10-31 15:44:26,049 - INFO - Input columns: 5, Output columns: 6
+2026-10-31 15:44:26,050 - INFO - Pipeline completed successfully
+2026-10-31 15:52:07,586 - INFO - Pipeline started
+2026-10-31 15:52:07,587 - INFO - Reading JSON file: data/input/employees.json
+2026-10-31 15:52:07,596 - INFO - JSON file loaded successfully with 3 rows
+2026-10-31 15:52:07,598 - INFO - Input data contains 3 rows
+2026-10-31 15:52:07,598 - INFO - Starting data cleaning
+2026-10-31 15:52:07,623 - INFO - Data cleaning completed
+2026-10-31 15:52:07,623 - INFO - Starting data transformation
+2026-10-31 15:52:07,625 - INFO - Data transformation completed
+2026-10-31 15:52:07,629 - INFO - Processed data saved to data/output/cleaned_employees.json
+2026-10-31 15:52:07,629 - INFO - Output data contains 3 rows
+2026-10-31 15:52:07,629 - INFO - Input columns: 5, Output columns: 6
+2026-10-31 15:52:07,629 - INFO - Pipeline completed successfully
+2026-10-31 15:54:18,552 - INFO - Pipeline started
+2026-10-31 15:54:18,553 - INFO - Reading JSON file: data/input/employees.json
+2026-10-31 15:54:18,556 - INFO - JSON file loaded successfully with 3 rows
+2026-10-31 15:54:18,557 - INFO - Input data contains 3 rows
+2026-10-31 15:54:18,557 - INFO - Starting data cleaning
+2026-10-31 15:54:18,565 - INFO - Data cleaning completed
+2026-10-31 15:54:18,566 - INFO - Starting data transformation
+2026-10-31 15:54:18,570 - INFO - Data transformation completed successfully
+2026-10-31 15:54:18,573 - INFO - Processed data saved to data/output/cleaned_employees.json
+2026-10-31 15:54:18,573 - INFO - Output data contains 3 rows
+2026-10-31 15:54:18,574 - INFO - Input columns: 5, Output columns: 6
+2026-10-31 15:54:18,574 - INFO - Pipeline completed successfully
+2026-10-31 15:56:29,315 - INFO - Pipeline started
+2026-10-31 15:56:29,316 - INFO - Reading JSON file: C:\Users\Sanchita\OneDrive\Desktop\DATA-PROCESSING-PIPELINE\data\input\employees.json
+2026-10-31 15:56:29,349 - INFO - JSON file loaded successfully with 3 rows
+2026-10-31 15:56:29,350 - INFO - Input rows: 3
+2026-10-31 15:56:29,350 - INFO - Starting data cleaning
+2026-10-31 15:56:29,359 - INFO - Data cleaning completed
+2026-10-31 15:56:29,360 - INFO - Starting data transformation
+2026-10-31 15:56:29,365 - INFO - Data transformation completed successfully
+2026-10-31 15:56:29,371 - INFO - Output saved to: C:\Users\Sanchita\OneDrive\Desktop\DATA-PROCESSING-PIPELINE\data\output\cleaned_employees.json
+2026-10-31 15:56:29,371 - INFO - Output rows: 3
+2026-10-31 15:56:29,372 - INFO - Output columns: 6
+2026-10-31 15:56:29,372 - INFO - Pipeline completed successfully
+2026-10-31 16:00:41,127 - INFO - Pipeline started
+2026-10-31 16:00:41,129 - INFO - Reading JSON file: C:\Users\Sanchita\OneDrive\Desktop\DATA-PROCESSING-PIPELINE\data\input\employees.json
+2026-10-31 16:00:41,132 - INFO - JSON loaded successfully: 3 records
+2026-10-31 16:00:41,133 - INFO - Input rows: 3
+2026-10-31 16:00:41,134 - INFO - Starting data cleaning
+2026-10-31 16:00:41,145 - INFO - Data cleaning completed
+2026-10-31 16:00:41,146 - INFO - Starting data transformation
+2026-10-31 16:00:41,149 - INFO - Data transformation completed successfully
+2026-10-31 16:00:41,153 - INFO - Output saved to: C:\Users\Sanchita\OneDrive\Desktop\DATA-PROCESSING-PIPELINE\data\output\cleaned_employees.json
+2026-10-31 16:00:41,154 - INFO - Output rows: 3
+2026-10-31 16:00:41,154 - INFO - Output columns: 6
+2026-10-31 16:00:41,155 - INFO - Pipeline completed successfully
+2026-10-31 16:03:32,949 - INFO - Pipeline started
+2026-10-31 16:03:32,950 - INFO - Reading JSON file: C:\Users\Sanchita\OneDrive\Desktop\DATA-PROCESSING-PIPELINE\data\input\employees.json
+2026-10-31 16:03:32,954 - INFO - JSON loaded successfully: 3 records
+2026-10-31 16:03:32,955 - INFO - Input records: 3
+2026-10-31 16:03:32,955 - INFO - Starting data cleaning
+2026-10-31 16:03:32,964 - INFO - Data cleaning completed
+2026-10-31 16:03:32,965 - INFO - Starting data transformation
+2026-10-31 16:03:32,969 - INFO - Data transformation completed successfully
+2026-10-31 16:03:32,974 - INFO - Pipeline completed successfully
+2026-10-31 16:15:27,682 - INFO - Pipeline started
+2026-10-31 16:15:27,684 - INFO - Reading JSON file: C:\Users\Sanchita\OneDrive\Desktop\DATA-PROCESSING-PIPELINE\data\input\employees.json
+2026-10-31 16:15:27,688 - INFO - JSON loaded successfully: 3 records
+2026-10-31 16:15:27,688 - INFO - Input records: 3
+2026-10-31 16:15:27,689 - INFO - Starting data cleaning
+2026-10-31 16:15:27,695 - INFO - Data cleaning completed
+2026-10-31 16:15:27,696 - INFO - Starting data transformation
+2026-10-31 16:15:27,697 - INFO - Data transformation completed successfully
+2026-10-31 16:15:27,702 - INFO - Pipeline completed successfully
+2026-11-01 09:53:03,530 - INFO - Pipeline started
+2026-11-01 09:53:03,531 - INFO - Reading JSON file: C:\Users\Sanchita\OneDrive\Desktop\DATA-PROCESSING-PIPELINE\data\input\employees.json
+2026-11-01 09:53:03,533 - INFO - JSON loaded successfully: 3 records
+2026-11-01 09:53:03,534 - INFO - Input records: 3
+2026-11-01 09:53:03,534 - INFO - Starting data cleaning
+2026-11-01 09:53:03,545 - INFO - Data cleaning completed
+2026-11-01 09:53:03,545 - INFO - Starting data transformation
+2026-11-01 09:53:03,548 - INFO - Data transformation completed successfully
+2026-11-01 09:53:03,551 - INFO - Pipeline completed successfully
+2026-11-01 10:04:15,022 - INFO - Pipeline started
+2026-11-01 10:04:15,023 - INFO - Reading CSV file: C:\Users\Sanchita\OneDrive\Desktop\DATA-PROCESSING-PIPELINE\data\input\test_missing.csv
+2026-11-01 10:04:15,027 - INFO - CSV loaded successfully: 4 records
+2026-11-01 10:04:15,027 - INFO - Input records: 4
+2026-11-01 10:04:15,028 - INFO - Starting data cleaning
+2026-11-01 10:04:15,038 - INFO - Filled 1 missing values in age
+2026-11-01 10:04:15,040 - INFO - Filled 1 missing values in salary
+2026-11-01 10:04:15,043 - INFO - Data cleaning completed
+2026-11-01 10:04:15,043 - INFO - Starting data transformation
+2026-11-01 10:04:15,047 - INFO - Data transformation completed successfully
+2026-11-01 10:04:15,052 - INFO - Pipeline completed successfully
+2026-11-01 10:30:48,461 - INFO - Pipeline started
+2026-11-01 10:30:48,462 - INFO - Fetching data from API: http://127.0.0.1:8000/employees
+2026-11-01 10:30:48,478 - INFO - API data loaded successfully: 3 records
+2026-11-01 10:30:48,479 - INFO - Input records: 3
+2026-11-01 10:30:48,479 - INFO - Starting data cleaning
+2026-11-01 10:30:48,488 - INFO - Data cleaning completed
+2026-11-01 10:30:48,488 - INFO - Starting data transformation
+2026-11-01 10:30:48,490 - INFO - Data transformation completed successfully
+2026-11-01 10:30:48,494 - INFO - Pipeline completed successfully

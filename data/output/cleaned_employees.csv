@@ -1,0 +1,9 @@
+id,name,age,salary,city,salary_category
+1,Rahul,21,25000,Mumbai,Low
+2,Priya,24,30000,Pune,Medium
+3,Amit,25,31000,Mumbai,Medium
+4,Unknown,22,28000,Nashik,Low
+5,Neha,24,32000,Pune,Medium
+6,Rohan,30,45000,Mumbai,High
+7,Sneha,27,31000,Pune,Medium
+8,Anita,24,35000,Mumbai,Medium

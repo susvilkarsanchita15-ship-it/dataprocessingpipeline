@@ -1,0 +1,9 @@
+id,name,age,salary,city
+1, Rahul ,21,25000,Mumbai
+2,Priya,,30000,Pune
+3,Amit,25,,Mumbai
+4,,22,28000,Nashik
+5,Neha,abc,32000,Pune
+6,Rohan,30,45000, Mumbai
+7, Sneha ,27,abc,Pune
+8,Anita,24,35000,Mumbai
