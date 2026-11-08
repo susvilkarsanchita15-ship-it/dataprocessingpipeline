@@ -1,3 +1,4 @@
+
 import json
 import logging
 from pathlib import Path
@@ -12,8 +13,13 @@ def records_to_dataframe(data, source_name):
     if isinstance(data, dict):
         if isinstance(data.get("data"), list):
             data = data["data"]
+
         elif isinstance(data.get("results"), list):
             data = data["results"]
+
+        elif isinstance(data.get("users"), list):
+            data = data["users"]
+
         else:
             data = [data]
 
@@ -44,6 +50,7 @@ def read_csv(file_path):
 
     try:
         df = pd.read_csv(file_path, encoding="utf-8-sig")
+
     except pd.errors.EmptyDataError:
         raise ValueError("CSV file is empty")
 
@@ -67,6 +74,7 @@ def read_json(file_path):
     try:
         with open(file_path, "r", encoding="utf-8") as file:
             data = json.load(file)
+
     except json.JSONDecodeError as error:
         raise ValueError(f"Invalid JSON file: {error}")
 
@@ -99,8 +107,34 @@ def read_api(url, timeout=15):
     except ValueError:
         raise ValueError("API did not return valid JSON data")
 
+    # Convert API response into a DataFrame
     df = records_to_dataframe(data, "API response")
 
-    logging.info(f"API data loaded successfully: {len(df)} records")
+    # Create full name from first and last name
+    if "firstName" in df.columns and "lastName" in df.columns:
+        df["name"] = (
+            df["firstName"].fillna("").astype(str).str.strip()
+            + " "
+            + df["lastName"].fillna("").astype(str).str.strip()
+        ).str.strip()
+
+    # Extract city from nested address
+    if "address.city" in df.columns:
+        df["city"] = df["address.city"]
+
+    elif "address" in df.columns:
+        df["city"] = df["address"].apply(
+            lambda address: address.get("city")
+            if isinstance(address, dict)
+            else None
+        )
+
+    # Add salary only when the API does not provide it
+    if "salary" not in df.columns:
+        df["salary"] = 0
+
+    logging.info(
+        f"API data loaded successfully: {len(df)} records"
+    )
 
     return df
